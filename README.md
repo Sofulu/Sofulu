@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sofulu Rashad
+- 👋 Hi, I’m @Sofulu
 - 👀 I’m interested in programming language
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on companies, that they are looking Python developer
